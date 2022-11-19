@@ -1,6 +1,6 @@
-# test
-- 👋 Hi, I’m @dancingKim
-- 👀 I’m interested in di
+# 👀 I’m interested in
+I’m @dancingKim
+-  di
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
