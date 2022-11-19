@@ -1,9 +1,10 @@
-# 👀 I’m interested in
-I’m @dancingKim
--  di
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👀 I’m interested in "Digital Healthcare"
+Hi ~ I’m @dancingKim
+
+# I collaborated on [cooperation project](https://github.com/myMSA/cooperation)
+it's about cooperation board!
+
+# I studied this https://velog.io/@iamloved5959
 
 <!---
 dancingKim/dancingKim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
