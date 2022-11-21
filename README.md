@@ -1,7 +1,7 @@
 # 👀 I’m interested in "Digital Healthcare"
 Hi ~ I’m @dancingKim
 
-# I collaborated on [cooperation project](https://github.com/myMSA/cooperation)
+# I collaborated on [collaboration project](https://github.com/myMSA/cooperation)
 it's about cooperation board!
 
 # this is my study blog. [Study history](https://velog.io/@iamloved5959)
