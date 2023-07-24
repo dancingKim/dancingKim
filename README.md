@@ -1,4 +1,4 @@
-# 👀 I’m interested in "Digital Healthcare"
+# 👀 I’m interested in "Mixing Contents and Digital Healthcare"
 Hi ~ I’m @dancingKim
 
 # I collaborated on [collaboration project](https://github.com/myMSA/cooperation)
