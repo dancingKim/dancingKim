@@ -9,6 +9,9 @@ Hi ~ I’m @dancingKim
 ## This is Card Game
 [CardGame](https://github.com/dancingKim/CardGame)
 
+## Now I am working with
+projects that mix contents and healthcare using chatGPT.
+
 # this is my study blog. [Study history](https://velog.io/@iamloved5959)
 
 <!---
