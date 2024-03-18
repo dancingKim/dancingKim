@@ -1,20 +1,11 @@
-# 👀 I’m interested in "Mixing Contents and Digital Healthcare"
-Hi ~ I’m @dancingKim
+## Skills
+### Bacek-End
+- Java8+, Spring 3.0, Spring Boot 6.0, MyBatis, JPA, JUnit4, Junit5, Maven, Gradle
+- Oracle11g, MySql8.0
+- C, ABAP
 
-# These are my projects
-## webtoon-webnobel contents platform
-[back-end](https://github.com/dancingKim/postory_back.git)  
-[front-end](https://github.com/dancingKim/Postory_Front.git)
+### Front-End
+- React,JavaScript ES6, HTML5, CSS3
 
-## This is Card Game
-[CardGame](https://github.com/dancingKim/CardGame)
-
-## Now I am working with
-projects that mix contents and healthcare using chatGPT.
-
-# this is my study blog. [Study history](https://velog.io/@iamloved5959)
-
-<!---
-dancingKim/dancingKim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### DevOps
+- AWS EC2, RDS, SecretsManager, IAM, CloudWatch
