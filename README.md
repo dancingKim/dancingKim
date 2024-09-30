@@ -5,8 +5,8 @@
 - C, ABAP
 ### Front-End
 - React, JavaScript ES6, HTML5, CSS3
-### DevOps
-- AWS EC2, RDS, SecretsManager, IAM, CloudWatch
+### Cloud
+- AWS EC2, RDS, SecretsManager, IAM, CloudWatch, ALB,  Route53, GCP, NCP
 
 ## Projects
 ### 간판 비교 플랫폼
