@@ -3,11 +3,12 @@
 - Java8+, Spring 3.0, Spring Boot 6.0, MyBatis, JPA, JUnit4, Junit5, Maven, Gradle
 - Oracle11g+, MySql8.0+
 - C, ABAP
+- Docker
 ### Front-End
 - React, JavaScript ES6, HTML5, CSS3
-- ReactNative, Expo
+- ReactNative, Expo, EAS
 ### Cloud
-- AWS EC2, RDS, SecretsManager, IAM, CloudWatch, ALB, AutoScaling, Route53, GCP, NCP
+- AWS EC2, RDS,VPC, CodeDeploy, SecretsManager, IAM, CloudWatch, ALB, AutoScaling, Route53, GCP, NCP
 
 ## Projects
 ### Worthy I - 감사 일기 앱
